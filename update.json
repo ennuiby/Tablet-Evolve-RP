@@ -1,7 +1,7 @@
 {
     "global":{
-        "latest":1.03,
+        "latest":1.04,
         "updateurl":"https://raw.githubusercontent.com/ennuiby/tablet1/main/tablet.luac",
-        "updlist": "1.03: — One more time fix."
+        "updlist": "1.04: — Fixed calls."
     }
 }

@@ -1,7 +1,7 @@
 {
     "global":{
-        "latest":1.09,
+        "latest":1.10,
         "updateurl":"https://raw.githubusercontent.com/ennuiby/tablet1/main/tablet.luac",
-        "updlist": "1.09: — Добавлен общий онлайн тех, кто использует скрипт в данный момент."
+        "updlist": "1.10: — Система банов/откладка."
     }
 }
